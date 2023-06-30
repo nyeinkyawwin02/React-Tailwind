@@ -130,6 +130,40 @@ function App() {
         Nihil autem ipsa eligendi incidunt libero! Beatae inventore soluta obcaecati culpa provident est quod illum dolores doloribus. Commodi, tenetur! Dolor, nesciunt deleniti odio asperiores necessitatibus ipsa libero ut eveniet unde!
         Voluptas harum voluptate ipsa enim dignissimos aliquid repellendus incidunt cumque consequatur aliquam earum voluptatum soluta facilis minima eum, quae, illum a qui sed necessitatibus quibusdam eos sit cum? Quasi, natus.
       </p> */}
+
+      {/* Borders */}
+      {/* <div className='bg-blue-500 w-52 h-36 rounded-t-full m-7 mb-0'></div>
+      <div className='bg-blue-500 w-52 h-36 rounded-b-full m-7 mt-0'></div> */}
+
+      {/* <button className='bg-blue-500 w-36 h-16 rounded-full m-7 cursor-not-allowed'>
+        Click me
+      </button> */}
+
+      {/* Border radius */}
+      {/* <p className='border-4 border-blue-800 border-double'>
+        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Explicabo,
+        recusandae dolore quis esse cum eius quaerat necessitatibus minima
+        totam, ullam doloremque atque. Dicta quae voluptate assumenda,
+        voluptatibus sequi illum. Quaerat?u
+      </p> */}
+
+      {/* Divider */}
+      {/* <div className='divide-y-4 divide-fuchsia-500 divide-double'>
+        <div className='m-5 w-36 h-36 bg-slate-400 '>Test</div>
+        <div className='m-5 w-36 h-36 bg-slate-400 '>Test</div>
+        <div className='m-5 w-36 h-36 bg-slate-400 '>Test</div>
+        <div className='m-5 w-36 h-36 bg-slate-400 '>Test</div>
+      </div> */}
+
+      {/* Outline */}
+      {/* <div className='m-5 w-36 h-36 bg-slate-400 outline-double outline-yellow-900 outline-4 outline-offset-2'></div> */}
+
+      {/* Opacity and Shadow */}
+      <div>
+        <button className='bg-blue-400 m-5 w-44 h-16 rounded-full shadow-xl shadow-blue-300 outline-yellow-500 outline-4 outline-offset-1'>Click here</button>
+        <button className='bg-red-400 m-5 w-44 h-16 rounded-full shadow-xl shadow-orange-300 opacity-30'>Click here</button>
+        <button className='bg-red-400 m-5 w-44 h-16 rounded-full shadow-xl shadow-blue-300 opacity-80'>Click here</button>
+      </div>
     </>
   );
 }
