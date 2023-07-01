@@ -64,7 +64,7 @@ const Index = () => {
                   />
                   <div
                     className='inset-y-0 right-0 flex items-center cursor-pointer'
-                    onMouseEnter={() => focusSearch(true)}
+                    onMouseOverCapture={() => focusSearch(true)}
                     onMouseLeave={() => focusSearch(false)}
                   >
                     <svg
