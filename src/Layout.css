@@ -1,0 +1,11 @@
+.div1 {
+  background-image: url('./assets/xiang_gao.jpg');
+  width: 100%;
+  height: 50vh;
+}
+.btn-lg {
+  @apply bg-blue-600 w-36 h-12 rounded-md text-lg hover:bg-red-500 active:bg-green-300;
+}
+.btn-pink {
+  @apply bg-pink-400 w-36 h-12 px-5 py-2 rounded-md text-sm hover:bg-pink-700 active:bg-green-300 focus:outline-orange-800 focus:outline-1 focus:outline;
+}
