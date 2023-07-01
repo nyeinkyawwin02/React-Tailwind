@@ -1,11 +1,13 @@
 import React from 'react';
 import './App.css';
-import Index from './MiniProject';
+import FinalProject from './LandingPage';
+import MiniProject from './MiniProject';
 
 const App = () => {
   return (
     <>
-      <Index />
+      {/* <MiniProject /> */}
+      <FinalProject />
     </>
   );
 };

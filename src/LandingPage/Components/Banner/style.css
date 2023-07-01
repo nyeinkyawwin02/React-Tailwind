@@ -1,0 +1,15 @@
+.heading {
+  @apply text-6xl font-extrabold text-white text-center;
+}
+.icon {
+  @apply text-2xl text-yellow-300;
+}
+.service-list {
+  @apply text-lg text-white p-10;
+}
+.service-icon {
+  @apply text-yellow-300 mr-4;
+}
+.foot-banner {
+  @apply flex justify-center text-white;
+}
