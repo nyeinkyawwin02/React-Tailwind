@@ -1,0 +1,9 @@
+.footer-list-container {
+  @apply lg:w-1/6 w-full md:w-1/2 mb-8 px-8;
+}
+.footer-hest {
+  @apply text-gray-600 tracking-wider text-xl mb-3;
+}
+.footer-a {
+  @apply text-gray-500 hover:text-gray-800;
+}
